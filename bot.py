@@ -96,7 +96,7 @@ async def print_history(ctx):
         await ctx.send(f"Here's our conversation so far:\n{convo}")
 
 
-@bot.command(name = 'clear' or 'c')
+@bot.command(name = 'clear')
 async def clear_convo(ctx):
     client = ctx.author.id
 
