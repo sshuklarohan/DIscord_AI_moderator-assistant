@@ -3,7 +3,7 @@
 
 ## Summary
 
-This discord bot utilizes OpenAI's gpt 4 chat completion to assist users with their activities, whilst also using OpenAI's moderation feature to enforce server guidlines
+This discord bot utilizes OpenAI's gpt 4 chat completion to assist users with their activities, whilst also using OpenAI's moderation feature to enforce server guidelines
 
 
 ### 1. Chat with bot
